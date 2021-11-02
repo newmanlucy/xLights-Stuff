@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.12</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/Lucy.Newman@ibm.com/Downloads/Mandala.mp4</mediaFile>
+    <sequenceDuration>45.046</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#000000,C_BUTTON_Palette6=#FF0000,C_BUTTON_Palette7=#FF5000,C_BUTTON_Palette8=#00EE00,C_CHECKBOX_Palette1=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/Mandala.mp4,E_TEXTCTRL_Duration=0:45.000,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_Start=0</Effect>
+    <Effect></Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="32645" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Strings" visible="1"/>
+    <Element collapsed="0" type="model" name="Floods" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="4200"></Effect>
+        <Effect label="" startTime="4200" endTime="12400"></Effect>
+        <Effect label="" startTime="12400" endTime="18900"></Effect>
+        <Effect label="" startTime="18900" endTime="24200"></Effect>
+        <Effect label="" startTime="24200" endTime="43200"></Effect>
+        <Effect label="" startTime="43200" endTime="44900"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strings">
+      <EffectLayer>
+        <Effect ref="0" name="Butterfly" selected="1" startTime="0" endTime="45000" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="1" name="Video" selected="1" startTime="0" endTime="45000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Floods">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="0" endTime="4200" palette="0"/>
+        <Effect ref="2" name="On" id="1" startTime="4200" endTime="12400" palette="0"/>
+        <Effect ref="2" name="On" id="2" startTime="12400" endTime="18900" palette="0"/>
+        <Effect ref="2" name="On" id="3" startTime="18900" endTime="24200" palette="0"/>
+        <Effect ref="3" name="On" id="4" startTime="24200" endTime="43200" palette="0"/>
+        <Effect ref="4" name="On" id="5" startTime="43200" endTime="44900" palette="0"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

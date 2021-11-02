@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.12</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Rock Bottom (feat. DNCE)</song>
+    <artist>Hailee Steinfeld</artist>
+    <album>Haiz - EP</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/Lucy.Newman@ibm.com/Music/Music/Media.localized/Hailee Steinfeld/Haiz - EP/03 Rock Bottom (feat. DNCE).m4a</mediaFile>
+    <sequenceDuration>198.273</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#4C00FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#2F00FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#2F00FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#4C00FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_On_Cycles=6</Effect>
+    <Effect>E_CHOICE_Garlands_Direction=Up,E_SLIDER_Garlands_Spacing=10,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=1.0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=,E_TEXTCTRL_Duration=0:00:00.000,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_Start=0</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=51,E_TEXTCTRL_On_Cycles=8</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=54,E_TEXTCTRL_On_Cycles=8</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=52,E_TEXTCTRL_On_Cycles=6</Effect>
+    <Effect>E_TEXTCTRL_On_Cycles=6</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Strings" visible="1"/>
+    <Element collapsed="0" type="model" name="Floods" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="3900"></Effect>
+        <Effect label="" startTime="3900" endTime="15900"></Effect>
+        <Effect label="" startTime="15900" endTime="27300"></Effect>
+        <Effect label="" startTime="27300" endTime="36900"></Effect>
+        <Effect label="" startTime="36900" endTime="39000"></Effect>
+        <Effect label="" startTime="39000" endTime="40200"></Effect>
+        <Effect label="" startTime="40200" endTime="52500"></Effect>
+        <Effect label="" startTime="52500" endTime="61800"></Effect>
+        <Effect label="" startTime="61800" endTime="64800"></Effect>
+        <Effect label="" startTime="64800" endTime="75900"></Effect>
+        <Effect label="" startTime="75900" endTime="86050"></Effect>
+        <Effect label="" startTime="86050" endTime="88450"></Effect>
+        <Effect label="" startTime="88450" endTime="101650"></Effect>
+        <Effect label="" startTime="101650" endTime="113650"></Effect>
+        <Effect label="" startTime="113650" endTime="117850"></Effect>
+        <Effect label="" startTime="117850" endTime="121750"></Effect>
+        <Effect label="" startTime="121750" endTime="125950"></Effect>
+        <Effect label="" startTime="125950" endTime="130450"></Effect>
+        <Effect label="" startTime="130450" endTime="134350"></Effect>
+        <Effect label="" startTime="134350" endTime="137650"></Effect>
+        <Effect label="" startTime="137650" endTime="140050"></Effect>
+        <Effect label="" startTime="140050" endTime="143350"></Effect>
+        <Effect label="" startTime="143350" endTime="153850"></Effect>
+        <Effect label="" startTime="153850" endTime="155950"></Effect>
+        <Effect label="" startTime="155950" endTime="165550"></Effect>
+        <Effect label="" startTime="165550" endTime="167950"></Effect>
+        <Effect label="" startTime="167950" endTime="172450"></Effect>
+        <Effect label="" startTime="172450" endTime="177850"></Effect>
+        <Effect label="" startTime="177850" endTime="184150"></Effect>
+        <Effect label="" startTime="184150" endTime="190150"></Effect>
+        <Effect label="" startTime="190150" endTime="195550"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strings">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="27300" endTime="36900" palette="0"/>
+        <Effect ref="1" name="Garlands" id="1" startTime="36900" endTime="39000" palette="0"/>
+        <Effect ref="2" name="Video" selected="1" id="2" startTime="40200" endTime="52500" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Floods">
+      <EffectLayer>
+        <Effect ref="3" name="On" startTime="0" endTime="3900" palette="1"/>
+        <Effect ref="4" name="On" id="1" startTime="3900" endTime="15900" palette="1"/>
+        <Effect ref="5" name="On" id="2" startTime="15900" endTime="27300" palette="2"/>
+        <Effect ref="6" name="On" id="3" startTime="27300" endTime="36900" palette="3"/>
+        <Effect ref="7" name="On" id="4" startTime="40200" endTime="52500" palette="0"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

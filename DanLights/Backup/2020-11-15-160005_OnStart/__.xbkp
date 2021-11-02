@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.47.2</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="1290" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Red Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Custom" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral B" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral A" visible="1"/>
+    <Element collapsed="0" type="model" name="White Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Purple Tree" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Red Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Custom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral B">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="White Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Purple Tree">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

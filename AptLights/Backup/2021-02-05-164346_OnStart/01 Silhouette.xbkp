@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.03</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Silhouette</song>
+    <artist>Kyo</artist>
+    <album>Silhouette</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/Lucy.Newman@ibm.com/Music/Music/Media.localized/Kyo/Silhouette/01 Silhouette.mp3</mediaFile>
+    <sequenceDuration>230.636</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#FFA600,C_BUTTON_Palette7=#FF00FF,C_BUTTON_Palette8=#8000FF</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#FFA600,C_BUTTON_Palette7=#FF00FF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette1=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_TEXTCTRL_Eff_On_End=50,E_TEXTCTRL_On_Cycles=8</Effect>
+    <Effect>E_VALUECURVE_On_Transparency=Active=TRUE|Id=ID_VALUECURVE_On_Transparency|Type=Parabolic Down|Min=0.00|Max=100.00|P1=4.00|RV=TRUE|</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Manual,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_woman.mp4,E_TEXTCTRL_Duration=0:01.533,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Speed=1,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_woman_reversedd.mp4,E_TEXTCTRL_Duration=0:01.533,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=1,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=3,E_SLIDER_Twinkle_Steps=30</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_couple2_reversed.mp4,E_TEXTCTRL_Duration=0:01.600,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/IncompatibleImpeccableGander-mobile.mp4,E_TEXTCTRL_Duration=0:01.600,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_couple.mp4,E_TEXTCTRL_Duration=0:02.280,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_couple_reversed.mp4,E_TEXTCTRL_Duration=0:02.280,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/source.mp4,E_TEXTCTRL_Duration=0:02.419,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/woman_hair_reversed.mp4,E_TEXTCTRL_Duration=0:02.419,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/sunset.mp4,E_TEXTCTRL_Duration=0:08.700,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="784" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Floods" visible="1"/>
+    <Element collapsed="0" type="model" name="Strings" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Floods">
+      <EffectLayer>
+        <Effect ref="0" name="On" selected="1" startTime="89650" endTime="104950" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Strings">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="62600" endTime="63600" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Video" startTime="60000" endTime="61450" palette="0"/>
+        <Effect ref="3" name="Video" id="1" startTime="61450" endTime="62900" palette="0"/>
+        <Effect ref="4" name="Twinkle" id="2" startTime="62900" endTime="67800" palette="0"/>
+        <Effect ref="5" name="Video" id="3" startTime="67800" endTime="68800" palette="0"/>
+        <Effect ref="6" name="Video" id="4" startTime="68800" endTime="70450" palette="0"/>
+        <Effect ref="5" name="Video" id="5" startTime="70450" endTime="71450" palette="0"/>
+        <Effect ref="6" name="Video" id="6" startTime="71450" endTime="73100" palette="0"/>
+        <Effect ref="5" name="Video" id="7" startTime="73100" endTime="74100" palette="0"/>
+        <Effect ref="7" name="Video" id="8" startTime="74100" endTime="78000" palette="0"/>
+        <Effect ref="8" name="Video" id="9" startTime="78000" endTime="79000" palette="0"/>
+        <Effect ref="9" name="Video" id="10" startTime="79000" endTime="81950" palette="0"/>
+        <Effect ref="10" name="Video" id="11" startTime="81950" endTime="86200" palette="0"/>
+        <Effect ref="11" name="Video" id="12" startTime="86200" endTime="89600" palette="0"/>
+      </EffectLayer>
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.03</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song>Silhouette</song>
+    <artist>Kyo</artist>
+    <album>Silhouette</album>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/Lucy.Newman@ibm.com/Music/Music/Media.localized/Kyo/Silhouette/01 Silhouette.mp3</mediaFile>
+    <sequenceDuration>230.636</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#FFA600,C_BUTTON_Palette7=#FF00FF,C_BUTTON_Palette8=#8000FF</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#FFA600,C_BUTTON_Palette7=#FF00FF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#FFA600,C_BUTTON_Palette7=#FF00FF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#FFA600,C_BUTTON_Palette7=#FF00FF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#FFA600,C_BUTTON_Palette7=#FF00FF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#FFA600,C_BUTTON_Palette7=#FF00FF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#8000FF,C_BUTTON_Palette2=#FF00FF,C_BUTTON_Palette3=#FFA600,C_BUTTON_Palette4=#FFFFFF,C_BUTTON_Palette5=#FFCC00,C_BUTTON_Palette6=#00FFFF,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FFFF,C_BUTTON_Palette4=#FFCC00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#FFA600,C_BUTTON_Palette7=#FF00FF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=3</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=50,E_TEXTCTRL_On_Cycles=32</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=50,E_TEXTCTRL_On_Cycles=8</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=50,E_TEXTCTRL_On_Cycles=64</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=0</Effect>
+    <Effect>E_VALUECURVE_On_Transparency=Active=TRUE|Id=ID_VALUECURVE_On_Transparency|Type=Ramp|Min=0.00|Max=100.00|P1=100.00|RV=TRUE|</Effect>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=5,E_SLIDER_Snowflakes_Speed=10,E_SLIDER_Snowflakes_Type=1</Effect>
+    <Effect>E_VALUECURVE_On_Transparency=Active=TRUE|Id=ID_VALUECURVE_On_Transparency|Type=Parabolic Down|Min=0.00|Max=100.00|P1=4.00|RV=TRUE|</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Heart,E_SLIDER_Ripple_Thickness=3,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=6,T_CHECKBOX_Canvas=1</Effect>
+    <Effect>E_CHECKBOX_Fire_GrowWithMusic=0,E_CHOICE_Fire_Location=Bottom,E_SLIDER_Fire_Height=10,E_SLIDER_Fire_HueShift=53,E_TEXTCTRL_Fire_GrowthCycles=8</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Manual,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/videoblocks-kissing-couple-in-love-enjoy-sunset-by-the-beach_rl3nmaqdq__c70cfc3fe94e1bfc7ff2592f81110ce3__P360.mp4,E_TEXTCTRL_Duration=0:41.541,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Speed=1.52,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/portrait-of-happy-woman-turning-around-in-the-beach-during-sunset_4kssrewze__4a23ed1f646650f229d2e2508325e65c__P360.mp4,E_TEXTCTRL_Duration=0:12.078,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/videoblocks-happy-couple-dancing-and-kissing-during-sunset-steadycam-shot-slow-motion-shot_hqg_wcnkf__9a0ebfb72f30ddfd9428dfcfcdfd2d75__P360.mp4,E_TEXTCTRL_Duration=0:24.424,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/silhouettes-of-young-man-and-woman-looking-at-each-other-and-kissing-at-sunset_bcfo3xy-e__dad1bd2a740744db5b4a27c3348714d1__P360.mp4,E_TEXTCTRL_Duration=0:20.120,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Manual,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_woman.mp4,E_TEXTCTRL_Duration=0:01.533,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Speed=1,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_woman_reversedd.mp4,E_TEXTCTRL_Duration=0:01.533,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=1,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=3,E_SLIDER_Twinkle_Steps=30</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_couple2_reversed.mp4,E_TEXTCTRL_Duration=0:01.600,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/IncompatibleImpeccableGander-mobile.mp4,E_TEXTCTRL_Duration=0:01.600,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_couple.mp4,E_TEXTCTRL_Duration=0:02.280,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/dancing_couple_reversed.mp4,E_TEXTCTRL_Duration=0:02.280,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/source.mp4,E_TEXTCTRL_Duration=0:02.419,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/woman_hair_reversed.mp4,E_TEXTCTRL_Duration=0:02.419,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/sunset.mp4,E_TEXTCTRL_Duration=0:08.700,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/violet-rave-lights_wyafrm-h__76450dab85a8465dc1deb71616577779__P360.mp4,E_TEXTCTRL_Duration=0:15.749,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/videoblocks-love-at-sunset-couple-kissing_sit-fksdm__7fd7fd762e70f36ffd79a955ffb8a713__P360.mp4,E_TEXTCTRL_Duration=0:25.525,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Slow/Accelerate,E_FILEPICKERCTRL_Video_Filename=/Users/Lucy.Newman@ibm.com/Downloads/parting_2.mp4,E_TEXTCTRL_Duration=0:25.525,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHOICE_Garlands_Direction=Up,E_SLIDER_Garlands_Spacing=10,E_SLIDER_Garlands_Type=2,E_TEXTCTRL_Garlands_Cycles=1.0</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Position=100,E_SLIDER_Fill_Skip_Size=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="784" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Floods" visible="1"/>
+    <Element collapsed="0" type="model" name="Strings" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Floods">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="0" endTime="45300" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="45300" endTime="60000" palette="0"/>
+        <Effect ref="2" name="On" id="2" startTime="89650" endTime="104950" palette="1"/>
+        <Effect ref="2" name="On" id="3" startTime="104950" endTime="120250" palette="2"/>
+        <Effect ref="2" name="On" id="4" startTime="120250" endTime="134600" palette="3"/>
+        <Effect ref="3" name="On" id="5" startTime="165450" endTime="194650" palette="4"/>
+        <Effect ref="3" name="On" id="6" startTime="194650" endTime="223850" palette="4"/>
+        <Effect ref="4" name="On" id="7" startTime="223850" endTime="226450" palette="4"/>
+        <Effect ref="5" name="On" id="8" startTime="226650" endTime="227650" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Strings">
+      <EffectLayer>
+        <Effect ref="5" name="On" startTime="225850" endTime="227850" palette="5"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="6" name="Snowflakes" startTime="105050" endTime="120300" palette="3"/>
+        <Effect ref="6" name="Snowflakes" id="1" startTime="120300" endTime="134500" palette="2"/>
+        <Effect ref="7" name="On" id="2" startTime="137400" endTime="138400" palette="5"/>
+        <Effect ref="8" name="Ripple" id="3" startTime="183800" endTime="195000" palette="6"/>
+        <Effect ref="9" name="Fire" id="4" startTime="196600" endTime="209450" palette="1"/>
+        <Effect ref="10" name="Video" id="5" startTime="212450" endTime="227450" palette="5"/>
+        <Effect ref="5" name="On" id="6" startTime="227450" endTime="228450" palette="5"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="11" name="Video" startTime="60800" endTime="72000" palette="5"/>
+        <Effect ref="12" name="Video" id="1" startTime="72000" endTime="78200" palette="5"/>
+        <Effect ref="13" name="Video" id="2" startTime="78200" endTime="89400" palette="5"/>
+        <Effect ref="14" name="Video" id="3" startTime="134800" endTime="136250" palette="1"/>
+        <Effect ref="15" name="Video" id="4" startTime="136250" endTime="137700" palette="1"/>
+        <Effect ref="16" name="Twinkle" id="5" startTime="137700" endTime="142600" palette="1"/>
+        <Effect ref="17" name="Video" id="6" startTime="142600" endTime="143600" palette="1"/>
+        <Effect ref="18" name="Video" id="7" startTime="143600" endTime="145250" palette="1"/>
+        <Effect ref="17" name="Video" id="8" startTime="145250" endTime="146250" palette="1"/>
+        <Effect ref="18" name="Video" id="9" startTime="146250" endTime="147900" palette="1"/>
+        <Effect ref="17" name="Video" id="10" startTime="147900" endTime="148900" palette="1"/>
+        <Effect ref="19" name="Video" id="11" startTime="148900" endTime="152800" palette="1"/>
+        <Effect ref="20" name="Video" id="12" startTime="152800" endTime="153800" palette="1"/>
+        <Effect ref="21" name="Video" id="13" startTime="153800" endTime="156750" palette="1"/>
+        <Effect ref="22" name="Video" id="14" startTime="156750" endTime="161000" palette="1"/>
+        <Effect ref="23" name="Video" id="15" startTime="161000" endTime="164400" palette="1"/>
+        <Effect ref="5" name="On" id="16" startTime="177400" endTime="186000" palette="5"/>
+        <Effect ref="24" name="Video" id="17" startTime="195300" endTime="209450" palette="1"/>
+        <Effect ref="16" name="Twinkle" id="18" startTime="209450" endTime="212650" palette="1"/>
+        <Effect ref="25" name="Video" id="19" startTime="213050" endTime="215450" palette="5"/>
+        <Effect ref="26" name="Video" id="20" startTime="215450" endTime="227450" palette="5"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="6" name="Snowflakes" startTime="15000" endTime="30600" palette="0"/>
+        <Effect ref="6" name="Snowflakes" id="1" startTime="30600" endTime="45300" palette="7"/>
+        <Effect ref="6" name="Snowflakes" id="2" startTime="45300" endTime="59650" palette="8"/>
+        <Effect ref="27" name="Garlands" id="3" startTime="165000" endTime="181400" palette="9"/>
+        <Effect ref="28" name="Fill" id="4" startTime="181400" endTime="185800" palette="10"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

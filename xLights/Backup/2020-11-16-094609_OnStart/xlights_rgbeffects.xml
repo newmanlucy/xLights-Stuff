@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" SegsExpanded="FALSE" IndivSegs="1" Seg1="4" Seg2="4" Advanced="1" String1="!2A Rainbow 1:1" String2="!2B Rainbow 2:1" name="Rainbow Red" CustomColor="#000000" StringType="Single Color Intensity" parm2="8" TagColour="red" WorldPosX="912.3876" WorldPosY="559.3080" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="3" PointData="0.000000,0.000000,0.000000,7.381714,76.770508,0.000000,85.628601,66.436035,0.000000" cPointData="0,-26.574402,50.196045,0.000000,7.381714,76.770508,0.000000,1,7.381714,76.770508,0.000000,35.432495,110.726624,0.000000," versionNumber="5" StartChannel="!2A Rainbow 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" parm2="14" parm3="10" NodeNames="" StrandNames="" CustomColor="#cc7f32" StringType="Strobes" TagColour="white" name="South Rail Strobes-2" WorldPosX="947.7292" WorldPosY="342.4997" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="2" PointData="-313.107544,-85.040665,0.000000,-38.505493,443.494568,0.000000" cPointData="0,-68.032715,71.452972,0.000000,-39.981750,440.541840,0.000000," versionNumber="5" StartChannel="&gt;South Rail:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" parm2="14" parm3="10" NodeNames="" StrandNames="" name="South Rail Strobes-1" TagColour="white" CustomColor="#ff0000" StringType="Strobes" WorldPosX="953.8239" WorldPosY="350.9761" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="2" PointData="-313.107544,-85.040665,0.000000,-38.505493,443.494568,0.000000" cPointData="0,-68.032715,71.452972,0.000000,-39.981750,440.541840,0.000000," versionNumber="5" StartChannel="!0E South Rail + Strobes:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" parm2="14" parm3="10" NodeNames="" StrandNames="" CustomColor="#cc7f32" name="North Rail Strobes-2" StringType="Strobes" TagColour="white" WorldPosX="344.0639" WorldPosY="317.6417" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="2" PointData="-69.047821,-31.003479,0.000000,-224.406097,438.288208,0.000000" cPointData="0,-225.759476,247.095001,0.000000,-224.406097,438.288208,0.000000," versionNumber="5" StartChannel="&gt;North Rail:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" parm2="14" parm3="10" NodeNames="" StrandNames="" CustomColor="#cc7f32" name="North Rail Strobes-1" StringType="Strobes" TagColour="white" WorldPosX="338.1112" WorldPosY="334.1653" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="2" PointData="-69.047821,-31.003479,0.000000,-224.406097,438.288208,0.000000" cPointData="0,-225.759476,247.095001,0.000000,-224.406097,438.288208,0.000000," versionNumber="5" StartChannel="!0D North Rail + Strobes:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" parm2="14" parm3="10" NodeNames="" StrandNames="" name="South Rail" CustomColor="#ff0000" StringType="Node Single Color" TagColour="red" WorldPosX="958.2745" WorldPosY="359.4120" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="2" PointData="-313.107544,-85.040665,0.000000,-38.505493,443.494568,0.000000" cPointData="0,-68.032715,71.452972,0.000000,-39.981750,440.541840,0.000000," versionNumber="5" StartChannel="!0E South Rail + Strobes:2">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" name="North Rail" parm2="14" parm3="10" NodeNames="" StrandNames="" TagColour="gold" CustomColor="#cc7f32" StringType="Node Single Color" WorldPosX="340.3215" WorldPosY="326.0475" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="2" PointData="-69.047821,-31.003479,0.000000,-224.406097,438.288208,0.000000" cPointData="0,-225.759476,247.095001,0.000000,-224.406097,438.288208,0.000000," versionNumber="5" StartChannel="!0D North Rail + Strobes:2">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="50" parm3="1" LayoutGroup="Default" name="RGB Megatree" DisplayAs="Tree 360" parm1="32" StringType="3 Channel RGB" WorldPosX="1100.5815" WorldPosY="630.2643" WorldPosZ="0.0000" ScaleX="0.9735" ScaleY="0.7133" ScaleZ="0.9735" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!37 RGB Tree 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="7" parm1="4" Depth="1" CustomModel=",1,1,;1,,,1;1,,,;,1,1,;,,,1;1,,,1;,1,1," CustomBkgLightness="0" CustomBkgImage="" name="S-2" WorldPosX="946.7100" WorldPosY="952.4051" WorldPosZ="0.0000" ScaleX="13.7245" ScaleY="8.5341" ScaleZ="13.7245" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;A:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="A" parm2="5" parm1="9" Depth="1" CustomModel=",,,,1,,,,;,,,1,,1,,,;,,1,,1,,1,,;,1,,,,,,1,;1,,,,,,,,1" CustomBkgLightness="0" CustomBkgImage="" WorldPosX="881.6254" WorldPosY="957.7873" WorldPosZ="0.0000" ScaleX="5.1467" ScaleY="12.8011" ScaleZ="5.1467" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;M-2:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="5" parm1="5" Depth="1" CustomModel="1,,,,1;1,1,,1,1;1,,1,,1;1,,,,1;1,,,,1" CustomBkgLightness="0" CustomBkgImage="" name="M-2" WorldPosX="816.3291" WorldPosY="954.8819" WorldPosZ="0.0000" ScaleX="11.9229" ScaleY="11.9950" ScaleZ="11.9229" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;T:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="T" parm2="5" parm1="5" Depth="1" CustomModel="1,1,1,1,1;,,1,,;,,1,,;,,1,,;,,1,," CustomBkgLightness="0" CustomBkgImage="" WorldPosX="756.1523" WorldPosY="954.8817" WorldPosZ="0.0000" ScaleX="10.2934" ScaleY="12.8011" ScaleZ="10.2934" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;S:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="S" parm2="7" parm1="4" Depth="1" CustomModel=",1,1,;1,,,1;1,,,;,1,1,;,,,1;1,,,1;,1,1," CustomBkgLightness="0" CustomBkgImage="" WorldPosX="700.5884" WorldPosY="954.4055" WorldPosZ="0.0000" ScaleX="13.7245" ScaleY="8.5341" ScaleZ="13.7245" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;I:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="I" parm2="5" parm1="1" Depth="1" CustomModel="1;1;1;1;1" CustomBkgLightness="0" CustomBkgImage="" WorldPosX="643.0107" WorldPosY="954.4055" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="12.8011" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;R-3:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="5" parm1="4" Depth="1" CustomModel="1,1,1,;1,,,1;1,1,1,;1,,1,;1,,,1" CustomBkgLightness="0" CustomBkgImage="" name="R-3" WorldPosX="603.1491" WorldPosY="954.4053" WorldPosZ="0.0000" ScaleX="13.7245" ScaleY="12.8011" ScaleZ="13.7245" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;H:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="5" parm1="4" Depth="1" CustomModel="1,,,1;1,,,1;1,1,1,1;1,,,1;1,,,1" CustomBkgLightness="0" CustomBkgImage="" name="H" WorldPosX="536.7130" WorldPosY="952.9288" WorldPosZ="0.0000" ScaleX="13.7245" ScaleY="12.8011" ScaleZ="13.7245" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;C:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="C" parm2="5" parm1="3" Depth="1" CustomModel=",1,1;1,,;1,,;1,,;,1,1" CustomBkgLightness="0" CustomBkgImage="" WorldPosX="474.6039" WorldPosY="954.4423" WorldPosZ="0.0000" ScaleX="15.5974" ScaleY="13.3769" ScaleZ="15.5974" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Y:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="Y" parm2="5" parm1="5" Depth="1" CustomModel="1,,,,1;,1,,1,;,,1,,;,,1,,;,,1,," CustomBkgLightness="0" CustomBkgImage="" WorldPosX="381.6957" WorldPosY="955.8818" WorldPosZ="0.0000" ScaleX="10.2934" ScaleY="12.8011" ScaleZ="10.2934" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;R-2:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="5" parm1="4" Depth="1" CustomModel="1,1,1,;1,,,1;1,1,1,;1,,1,;1,,,1" CustomBkgLightness="0" CustomBkgImage="" name="R-2" WorldPosX="322.6416" WorldPosY="955.8817" WorldPosZ="0.0000" ScaleX="13.7245" ScaleY="12.8011" ScaleZ="13.7245" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;R-1:1">
+      <ControllerConnection channel="1" Protocol="lor"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="5" parm1="4" Depth="1" CustomModel="1,1,1,;1,,,1;1,1,1,;1,,1,;1,,,1" CustomBkgLightness="0" CustomBkgImage="" name="R-1" WorldPosX="259.5037" WorldPosY="956.0027" WorldPosZ="0.0000" ScaleX="13.7245" ScaleY="12.8011" ScaleZ="13.7245" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;E:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="E" parm2="5" parm1="3" Depth="1" CustomModel="1,1,1;1,,;1,1,1;1,,;1,1,1" CustomBkgLightness="0" CustomBkgImage="" WorldPosX="203.8268" WorldPosY="956.7406" WorldPosZ="0.0000" ScaleX="16.7822" ScaleY="13.0962" ScaleZ="16.7822" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;M1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="5" parm1="5" Depth="1" CustomModel="1,,,,1;1,1,,1,1;1,,1,,1;1,,,,1;1,,,,1" CustomBkgLightness="0" CustomBkgImage="" name="M1" WorldPosX="140.8074" WorldPosY="955.9874" WorldPosZ="0.0000" ScaleX="11.9229" ScaleY="11.9950" ScaleZ="11.9229" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!5B Merry Christmas 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Sphere" StringType="RGB Nodes" Antialias="1" PixelSize="2" Transparency="0" name="Sphere" LayoutGroup="Default" parm1="12" parm2="6" parm3="1" Dir="L" StartSide="T" WorldPosX="212.6631" WorldPosY="620.4292" WorldPosZ="0.0000" ScaleX="34.9238" ScaleY="18.2575" ScaleZ="34.9238" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!46 Sphere 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="Inner Heart" parm2="9" parm1="9" Depth="1" CustomModel=",,7,,,,2,,;,7,7,8,,1,2,2,;,6,6,8,1,1,2,2,;,6,6,8,1,1,3,3,;,,6,5,1,3,3,,;,,5,5,4,4,3,,;,,,5,4,4,,,;,,,,4,,,,;,,,,4,,,," CustomBkgLightness="0" CustomBkgImage="" WorldPosX="555.3989" WorldPosY="767.7618" WorldPosZ="0.0000" ScaleX="2.3153" ScaleY="2.2857" ScaleZ="2.3153" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!55 Inner Heart:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Cable Rail" parm2="16" WorldPosX="273.1257" WorldPosY="857.5318" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="2" PointData="143.395660,4.239868,0.000000,445.859283,1.942043,0.000000" cPointData="0,143.395660,4.239868,0.000000,319.666016,-83.077888,0.000000," versionNumber="5" StartChannel="!53 Cable Rail 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm2="15" parm1="15" Depth="1" CustomModel=",,,,,,1,,,,,,,,;,,,,,,1,,,,,,,,;,,,,,,1,,,,,,,,;,,,,,1,6,1,,,,,,,;,,,,,1,6,1,,,,,,,;,5,5,5,5,6,6,6,2,2,2,2,,,;,,5,6,6,6,6,6,6,6,2,,,,;,,,5,6,6,6,6,6,2,,,,,;,,,,5,6,6,6,2,,,,,,;,,,4,6,6,6,6,6,3,,,,,;,,,4,6,6,4,6,6,3,,,,,;,,4,6,4,4,,3,3,6,3,,,,;,,4,4,,,,,,3,3,,,,;,4,,,,,,,,,,3,,,;,,,,,,,,,,,,,," CustomBkgLightness="0" CustomBkgImage="" NodeNames="Top,Top Right,Bottom RIght,Bottom Left,Top Left" StrandNames="" name="Cable Star 2" WorldPosX="679.8504" WorldPosY="786.7840" WorldPosZ="0.0000" ScaleX="5.9764" ScaleY="5.3000" ScaleZ="5.9764" RotateX="0.00000000" RotateY="0.00000000" RotateZ="15.00000000" versionNumber="5" StartChannel="!52 Cable Star 2:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="Cable Star 1" parm2="15" parm1="15" Depth="1" CustomModel=",,,,,,1,,,,,,,,;,,,,,,1,,,,,,,,;,,,,,,1,,,,,,,,;,,,,,1,6,1,,,,,,,;,,,,,1,6,1,,,,,,,;,5,5,5,5,6,6,6,2,2,2,2,,,;,,5,6,6,6,6,6,6,6,2,,,,;,,,5,6,6,6,6,6,2,,,,,;,,,,5,6,6,6,2,,,,,,;,,,4,6,6,6,6,6,3,,,,,;,,,4,6,6,4,6,6,3,,,,,;,,4,6,4,4,,3,3,6,3,,,,;,,4,4,,,,,,3,3,,,,;,4,,,,,,,,,,3,,,;,,,,,,,,,,,,,," CustomBkgLightness="0" CustomBkgImage="" NodeNames="Top,Top Right,Bottom RIght,Bottom Left,Top Left" StrandNames="" WorldPosX="461.6197" WorldPosY="790.7438" WorldPosZ="0.0000" ScaleX="6.3647" ScaleY="5.4332" ScaleZ="6.3647" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-19.00000000" versionNumber="5" StartChannel="!51 Cable Star 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" name="Cable Heart" parm2="17" parm1="17" Depth="1" CustomModel=",,,,,,,,,,,,,,,,;,,,4,4,4,4,,,1,1,1,1,,,,;,,4,4,8,8,4,,1,5,5,5,1,1,,,;,,4,8,12,12,8,4,5,9,9,5,5,1,,,;,4,8,12,16,16,12,8,9,13,13,9,9,5,1,,;,4,8,12,16,,16,12,13,,13,13,9,5,1,,;,4,8,12,,,,16,,,,14,9,5,1,,;,,8,12,,,,,,,,10,5,2,,,;,,3,7,15,,,,,,14,6,2,,,,;,,,7,15,,,,,14,10,6,2,,,,;,,,3,11,15,,,,10,6,2,,,,,;,,,,7,11,15,,14,10,6,2,,,,,;,,,,3,7,11,15,10,6,2,,,,,,;,,,,,3,7,11,6,6,,,,,,,;,,,,,,3,7,6,2,,,,,,,;,,,,,,,3,2,,,,,,,,;,,,,,,,,2,,,,,,,," CustomBkgLightness="0" CustomBkgImage="" NodeNames="Top Right 1 (Outermost),Bottom Right 1,Bottom Left 1,Top Left 1,Top Right 2,Bottom Right 2,Bottom Left 2,Top Left 2,Top Right 3,Bottom Right 3,Bottom Left 3,Top Left 3,Top Right 4,Bottom Right 4,Bottom Left 4" StrandNames="" WorldPosX="564.4583" WorldPosY="768.5046" WorldPosZ="0.0000" ScaleX="5.3309" ScaleY="4.4572" ScaleZ="5.3309" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!4F Cable Heart 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="40" PixelSize="7" name="RGB Floods" WorldPosX="116.6320" WorldPosY="-122.7682" WorldPosZ="0.0000" X2="856.286133" Y2="4.429024" Z2="0.000000" versionNumber="5" StartChannel="!32 RGB Floods 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="All Previews" parm2="11" parm1="11" Depth="1" CustomModel=",,,,,1,,,,,;,8,,,,1,,,,2,;,,8,,,1,,,2,,;,,,8,,1,,2,,,;,,,,8,1,2,,,,;7,7,7,7,7,,3,3,3,3,3;,,,,6,5,4,,,,;,,,6,,5,,4,,,;,,6,,,5,,,4,,;,6,,,,5,,,,4,;,,,,,5,,,,," CustomBkgLightness="0" CustomBkgImage="" name="Snowflake 6" CustomStrings="1" WorldPosX="834.8384" WorldPosY="132.7008" WorldPosZ="0.0000" ScaleX="5.5613" ScaleY="6.4094" ScaleZ="5.5613" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Snowflake 5:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="All Previews" parm2="11" parm1="11" Depth="1" CustomModel=",,,,,1,,,,,;,8,,,,1,,,,2,;,,8,,,1,,,2,,;,,,8,,1,,2,,,;,,,,8,1,2,,,,;7,7,7,7,7,,3,3,3,3,3;,,,,6,5,4,,,,;,,,6,,5,,4,,,;,,6,,,5,,,4,,;,6,,,,5,,,,4,;,,,,,5,,,,," CustomBkgLightness="0" CustomBkgImage="" name="Snowflake 5" CustomStrings="1" WorldPosX="736.4535" WorldPosY="130.7482" WorldPosZ="0.0000" ScaleX="6.4630" ScaleY="6.5912" ScaleZ="6.4630" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Snowflake 4:1">
+      <ControllerConnection channel="1" Protocol="lor"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="All Previews" parm2="11" parm1="11" Depth="1" CustomModel=",,,,,1,,,,,;,8,,,,1,,,,2,;,,8,,,1,,,2,,;,,,8,,1,,2,,,;,,,,8,1,2,,,,;7,7,7,7,7,,3,3,3,3,3;,,,,6,5,4,,,,;,,,6,,5,,4,,,;,,6,,,5,,,4,,;,6,,,,5,,,,4,;,,,,,5,,,,," CustomBkgLightness="0" CustomBkgImage="" name="Snowflake 4" CustomStrings="1" WorldPosX="641.3322" WorldPosY="129.2245" WorldPosZ="0.0000" ScaleX="5.8107" ScaleY="6.3142" ScaleZ="5.8107" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Snowflake 3:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="All Previews" parm2="11" parm1="11" Depth="1" CustomModel=",,,,,1,,,,,;,8,,,,1,,,,2,;,,8,,,1,,,2,,;,,,8,,1,,2,,,;,,,,8,1,2,,,,;7,7,7,7,7,,3,3,3,3,3;,,,,6,5,4,,,,;,,,6,,5,,4,,,;,,6,,,5,,,4,,;,6,,,,5,,,,4,;,,,,,5,,,,," CustomBkgLightness="0" CustomBkgImage="" name="Snowflake 3" CustomStrings="1" WorldPosX="555.2576" WorldPosY="128.7481" WorldPosZ="0.0000" ScaleX="5.9981" ScaleY="6.4960" ScaleZ="5.9981" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Snowflake 2:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="All Previews" parm2="11" parm1="11" Depth="1" CustomModel=",,,,,1,,,,,;,8,,,,1,,,,2,;,,8,,,1,,,2,,;,,,8,,1,,2,,,;,,,,8,1,2,,,,;7,7,7,7,7,,3,3,3,3,3;,,,,6,5,4,,,,;,,,6,,5,,4,,,;,,6,,,5,,,4,,;,6,,,,5,,,,4,;,,,,,5,,,,," CustomBkgLightness="0" CustomBkgImage="" name="Snowflake 2" CustomStrings="1" WorldPosX="460.7133" WorldPosY="127.9863" WorldPosZ="0.0000" ScaleX="5.6215" ScaleY="5.9939" ScaleZ="5.6215" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Snowflake 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Custom" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="All Previews" name="Snowflake 1" parm2="11" parm1="11" Depth="1" CustomModel=",,,,,1,,,,,;,8,,,,1,,,,2,;,,8,,,1,,,2,,;,,,8,,1,,2,,,;,,,,8,1,2,,,,;7,7,7,7,7,,3,3,3,3,3;,,,,6,5,4,,,,;,,,6,,5,,4,,,;,,6,,,5,,,4,,;,6,,,,5,,,,4,;,,,,,5,,,,," CustomBkgLightness="0" CustomBkgImage="" CustomStrings="1" WorldPosX="363.4167" WorldPosY="128.8056" WorldPosZ="0.0000" ScaleX="5.8837" ScaleY="5.8449" ScaleZ="5.8837" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!40 Snowflake 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" Dir="R" parm1="16" name="Red Tree" NodeNames="Unit 3B.1 Red Tree 1,Unit 3B.2 Red Tree 2,Unit 3B.3 Red Tree 3,Unit 3B.4 Red Tree 4,Unit 3B.5 Red Tree 5,Unit 3B.6 Red Tree 6,Unit 3B.7 Red Tree 7,Unit 3B.8 Red Tree 8,Unit 3B.9 Red Tree 9,Unit 3B.10 Red Tree 10,Unit 3B.11 Red Tree 11,Unit 3B.12 Red Tree 12,Unit 3B.13 Red Tree 13,Unit 3B.14 Red Tree 14,Unit 3B.15 Red Tree 15,Unit 3D.16 White Tree 16" StrandNames="Unit 3B Red Tree" CustomColor="#000000" StringType="Single Color Intensity" parm2="1" WorldPosX="1115.0200" WorldPosY="910.2282" WorldPosZ="0.0000" X2="1.555298" Y2="-146.196777" Z2="0.000000" versionNumber="5" StartChannel="!3B Red Tree:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="20" name="Spiral B" LayoutGroup="All Previews" NodeNames="Spiral B.1 (Innermost),Spiral B.2,Spiral B.3,Spiral B.4,Spiral B.5,Spiral B.6,Spiral B.7,Spiral B.8,Spiral B.9,Spiral B.10,Spiral B.11,Spiral B.12,Spiral B.13,Spiral B.14,Spiral B.15,Spiral B.16,Spiral B.17,Spiral B.18,Spiral B.19,Spiral B.20 (Outermost)" StrandNames="Spiral B" WorldPosX="726.8223" WorldPosY="169.5918" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="2" PointData="256.826630,-25.865005,0.000000,192.553833,13.724609,0.000000" cPointData="0,291.140472,-138.318115,0.000000,365.190552,107.041687,0.000000," versionNumber="5" StartChannel="&gt;Spiral A:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="20" name="Spiral A" NodeNames="Spiral A.1 (Innermost),Spiral A.2,Spiral A.3,Spiral A.4,Spiral A.5,Spiral A.6,Spiral A.7,Spiral A.8,Spiral A.9,Spiral A.10,Spiral A.11,Spiral A.12,Spiral A.13,Spiral A.14,Spiral A.15,Spiral A.16,Spiral A.17,Spiral A.18,Spiral A.19,Spiral A.20 (Outermost)" StrandNames="Spiral A" WorldPosX="728.1559" WorldPosY="186.5063" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="2" PointData="274.527679,-23.442970,0.000000,325.496887,-0.101189,0.000000" cPointData="0,129.088562,9.331421,0.000000,329.720459,-234.848114,0.000000," versionNumber="5" StartChannel="!56 Spiral 1:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" Dir="R" name="White Tree" parm1="16" parm2="1" NodeNames="Unit 3D.1 White Tree 1,Unit 3D.2 White Tree 2,Unit 3D.3 White Tree 3,Unit 3D.4 White Tree 4,Unit 3D.5 White Tree 5,Unit 3D.6 White Tree 6,Unit 3D.7 White Tree 7,Unit 3D.8 White Tree 8,Unit 3D.9 White Tree 9,Unit 3D.10 White Tree 10,Unit 3D.11 White Tree 11,Unit 3D.12 Purple Tree 12,Unit 3D.13 White Tree 13,Unit 3D.14 White Tree 14,Unit 3D.15 White Tree 15,Unit 3D.16 White Tree 16" StrandNames="Unit 3C Purple Tree" CustomColor="#ffffff" StringType="Single Color Intensity" WorldPosX="1082.2435" WorldPosY="910.2282" WorldPosZ="0.0000" X2="1.555298" Y2="-146.196777" Z2="0.000000" versionNumber="5" StartChannel="!3D White Tree:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" Dir="R" name="Purple Tree" parm1="16" parm2="1" CustomColor="#b000ff" StringType="Single Color Intensity" NodeNames="Unit 3C.1 Purple Tree 1,Unit 3C.2 Purple Tree 2,Unit 3C.3 Purple Tree 3,Unit 3C.4 Purple Tree 4,Unit 3C.5 Purple Tree 5,Unit 3C.6 Purple Tree 6,Unit 3C.7 Purple Tree 7,Unit 3C.8 Purple Tree 8,Unit 3C.9 Purple Tree 9,Unit 3C.10 Purple Tree 10,Unit 3C.11 Purple Tree 11,Unit 3C.12 Purple Tree 12,Unit 3C.13 Purple Tree 13,Unit 3C.14 Purple Tree 14,Unit 3C.15 Purple Tree 15,Unit 3C.16 Purple Tree 16" StrandNames="Unit 3C Purple Tree" WorldPosX="1050.1143" WorldPosY="910.2282" WorldPosZ="0.0000" X2="1.555298" Y2="-146.196777" Z2="0.000000" versionNumber="5" StartChannel="!3C Purple Tree:1">
+      <ControllerConnection Protocol="lor" channel="1"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+  </view_objects>
+  <effects version="0006"/>
+  <views/>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" name="Snowflakes" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Snowflake 1,Snowflake 2,Snowflake 3,Snowflake 4,Snowflake 5,Snowflake 6"/>
+    <modelGroup selected="0" name="Main Cable" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Cable Heart,Cable Rail,Cable Star 1,Cable Star 2"/>
+    <modelGroup selected="0" name="Merry Christmas" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="M1,E,R-1,R-2,Y,C,H,R-3,I,S,T,M-2,A,S-2"/>
+  </modelGroups>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293500;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293500;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=400|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=183;besth=150;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=460;besth=831;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=433;besth=269;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1044;besth=696;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=404;besth=375;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=308;besth=285;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=317;besth=458;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=169;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=320;floaty=197;floatw=320;floath=185|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=122;besth=63;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=352|dock_size(1,0,0)=143|dock_size(5,0,0)=124|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <scaleImage value="0"/>
+    <previewWidth value="1280"/>
+    <previewHeight value="720"/>
+  </settings>
+  <colors>
+    <DisabledEffect Red="255" Green="255" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="0" Blue="0"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="0"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints/>
+</xrgb>

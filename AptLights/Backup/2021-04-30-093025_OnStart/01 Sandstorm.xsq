@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.13</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Sandstorm</song>
+    <artist>Darude</artist>
+    <album>Before the Storm</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/Lucy.Newman@ibm.com/Music/Music/Media.localized/Darude/Before the Storm/01 Sandstorm.m4a</mediaFile>
+    <sequenceDuration>225.394</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="1086091776" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="timing" name="Extra" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="model" name="All Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Strings" visible="1"/>
+    <Element collapsed="0" type="model" name="Floods" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="3300"></Effect>
+        <Effect label="" startTime="3300" endTime="11100"></Effect>
+        <Effect label="" startTime="11100" endTime="14400"></Effect>
+        <Effect label="" startTime="14400" endTime="16200"></Effect>
+        <Effect label="" startTime="16200" endTime="19800"></Effect>
+        <Effect label="" startTime="19800" endTime="22500"></Effect>
+        <Effect label="" startTime="22500" endTime="29400"></Effect>
+        <Effect label="" startTime="29400" endTime="42900"></Effect>
+        <Effect label="" startTime="42900" endTime="57000"></Effect>
+        <Effect label="" startTime="57000" endTime="70800"></Effect>
+        <Effect label="" startTime="70800" endTime="78300"></Effect>
+        <Effect label="" startTime="78300" endTime="85800"></Effect>
+        <Effect label="" startTime="85800" endTime="88800"></Effect>
+        <Effect label="" startTime="88800" endTime="96300"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Extra">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="91800"></Effect>
+        <Effect label="" startTime="91800" endTime="92700"></Effect>
+        <Effect label="" startTime="92700" endTime="94500"></Effect>
+        <Effect label="" startTime="94500" endTime="95400"></Effect>
+        <Effect label="" startTime="95400" endTime="96300"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strings">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Floods">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

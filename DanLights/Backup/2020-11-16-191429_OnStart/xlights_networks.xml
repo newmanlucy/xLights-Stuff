@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="Lucys-MBP" GlobalFPPProxy="">
+  <Controller Id="13" Name="0D North Rail + Strobes" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="14" Name="0E South Rail + Strobes" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="21" Name="15 Circles 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="22" Name="16 Circles 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="23" Name="17 Circles 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="24" Name="18 Circles 4" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="25" Name="19 Circles 5" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="26" Name="1A Circles 6" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="27" Name="1B Rectangle 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="28" Name="1C Rectangle 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="29" Name="1D Rectangle 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="30" Name="1E Squares 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="31" Name="1F Squares 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="32" Name="20 Squares 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="34" Name="22 Squares 4" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="35" Name="23 Squares 5" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="42" Name="2A Rainbow 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="43" Name="2B Rainbow 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="44" Name="2C Spiral 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="45" Name="2D Spiral 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="46" Name="2E Spiral 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="47" Name="2F Green Tree + Blue Icicles" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="48" Name="30 Blue Tree + Colored Meteor Lights" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="49" Name="31 Gold Tree + Dripping Icicles" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="50" Name="32 RGB Floods 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="51" Name="33 RGB Floods 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="52" Name="34 RGB Floods 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="53" Name="35 RGB Floods 4" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="54" Name="36 RGB Floods 5" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="55" Name="37 RGB Tree 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="56" Name="38 RGB Tree 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="57" Name="39 RGB Tree 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="58" Name="3A RGB Tree 4" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="59" Name="3B Red Tree" Description="" Type="Serial" Vendor="LOR" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="60" Name="3C Purple Tree" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="61" Name="3D White Tree" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="62" Name="3E #Topthat" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="63" Name="3F Snowmen" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="16"/>
+  </Controller>
+  <Controller Id="64" Name="40 Snowflake 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="/dev/cu.Bluetooth-Incoming-Port" Speed="250000" Protocol="LOR">
+    <network ComPort="/dev/cu.Bluetooth-Incoming-Port" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="65" Name="41 Snowflake 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="/dev/cu.SoundBudsSlim-SerialPort" Speed="250000" Protocol="LOR">
+    <network ComPort="/dev/cu.SoundBudsSlim-SerialPort" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="66" Name="42 Snowflake 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="67" Name="43 Snowflake 4" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="68" Name="44 Snowflake 5" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="69" Name="45 Snowflake 6" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="70" Name="46 Sphere 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="71" Name="47 Sphere 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="72" Name="48 Sphere 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="73" Name="49 Sphere 4" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="74" Name="4A Sphere 5" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="75" Name="4B Sphere 6" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="76" Name="4C Sphere 7" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="77" Name="4D Sphere 8" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="78" Name="4E Sphere 9" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="79" Name="4F Cable Heart 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="80" Name="50 Cable Heart 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="81" Name="51 Cable Star 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="82" Name="52 Cable Star 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="83" Name="53 Cable Rail 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="84" Name="54 Cable Rail 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="85" Name="55 Inner Heart" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="86" Name="56 Spiral 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="87" Name="57 Spiral 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="88" Name="58 Spiral 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="89" Name="59 Spiral 4" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="90" Name="5A Spiral 5" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="91" Name="5B Merry Christmas 1" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="92" Name="5C Merry Christmas 2" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+  <Controller Id="93" Name="5D Merry Christmas 3" Description="" Type="Serial" Vendor="" Model="" Variant="" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="0" AutoUpload="0" SuppressDuplicates="0" Port="NotConnected" Speed="250000" Protocol="LOR">
+    <network ComPort="NotConnected" BaudRate="250000" NetworkType="LOR" MaxChannels="24"/>
+  </Controller>
+</Networks>

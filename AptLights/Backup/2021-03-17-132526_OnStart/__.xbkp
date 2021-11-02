@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.08</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Symphony No. 5 in E Minor, Op. 64: IV. Finale (Andante maestoso - Allegro vivace)</song>
+    <artist>Mariinsky Orchestra &amp;amp;amp; Valery Gergiev</artist>
+    <album>Tchaikovsky: Symphony No. 5 &amp;amp;amp; Rimsky-Korsakov: Scheherazade</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/Lucy.Newman@ibm.com/Documents/Symphony 5 Movement 4.m4a</mediaFile>
+    <sequenceDuration>687.193</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=Start,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=20,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=100,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=100,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0</Effect>
+    <Effect>E_VALUECURVE_On_Transparency=Active=TRUE|Id=ID_VALUECURVE_On_Transparency|Type=Ramp|Min=0.00|Max=100.00|P1=100.00|RV=TRUE|</Effect>
+    <Effect></Effect>
+    <Effect>E_VALUECURVE_On_Transparency=Active=TRUE|Id=ID_VALUECURVE_On_Transparency|Type=Sine|Min=0.00|Max=100.00|P1=75.00|P2=100.00|P3=20.00|P4=50.00|RV=TRUE|</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/Lucy.Newman@ibm.com/Documents/AptLights/Shaders/Audio - waves remix.fs,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,T_CHECKBOX_Canvas=1</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/Lucy.Newman@ibm.com/Documents/AptLights/Shaders/Circle Tunnel.fs,E_SLIDER_CIRCLE_SIZE=16598,E_SLIDER_MOVE_X=17,E_SLIDER_MOVE_Y=-79,E_SLIDER_SPEED=2,E_SLIDER_Shader_Speed=29,E_TEXTCTRL_Shader_LeadIn=161</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/Lucy.Newman@ibm.com/Documents/AptLights/Shaders/Circle Tunnel.fs,E_SLIDER_CIRCLE_SIZE=16598,E_SLIDER_MOVE_X=17,E_SLIDER_MOVE_Y=-79,E_SLIDER_SPEED=20,E_SLIDER_Shader_Speed=29,E_TEXTCTRL_Shader_LeadIn=161</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=/Users/Lucy.Newman@ibm.com/Documents/AptLights/Shaders/Black Cherry Cosmos.fs,E_SLIDER_Shader_Speed=100,E_SLIDER_mouseX=8,E_SLIDER_mouseY=0,E_TEXTCTRL_Shader_LeadIn=0,T_CHECKBOX_Canvas=1</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Floods" visible="1"/>
+    <Element collapsed="0" type="model" name="Strings" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Floods">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strings">
+      <EffectLayer>
+        <Effect ref="0" name="Morph" startTime="44700" endTime="45700" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="21300" endTime="24300" palette="1"/>
+        <Effect ref="2" name="On" id="1" startTime="24300" endTime="34500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="34500" endTime="46500" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="4" name="Shader" startTime="900" endTime="24000" palette="2"/>
+        <Effect ref="5" name="Shader" id="1" startTime="24000" endTime="45350" palette="3"/>
+        <Effect ref="6" name="Shader" id="2" startTime="45350" endTime="57000" palette="3"/>
+        <Effect ref="7" name="Shader" id="3" startTime="91750" endTime="114850" palette="2"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

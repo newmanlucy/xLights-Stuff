@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.47.2</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect></Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=0</Effect>
+    <Effect>E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=End,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=20,E_SLIDER_MorphEndLength=0,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=100,E_SLIDER_Morph_End_X2=100,E_SLIDER_Morph_End_Y1=0,E_SLIDER_Morph_End_Y2=0,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=0,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Main Cable" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas" visible="1"/>
+    <Element collapsed="0" type="model" name="Rainbow Red" visible="1"/>
+    <Element collapsed="0" type="model" name="South Rail Strobes-2" visible="1"/>
+    <Element collapsed="0" type="model" name="South Rail Strobes-1" visible="1"/>
+    <Element collapsed="0" type="model" name="North Rail Strobes-2" visible="1"/>
+    <Element collapsed="0" type="model" name="North Rail Strobes-1" visible="1"/>
+    <Element collapsed="0" type="model" name="South Rail" visible="1"/>
+    <Element collapsed="0" type="model" name="North Rail" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Megatree" visible="1"/>
+    <Element collapsed="0" type="model" name="S-2" visible="1"/>
+    <Element collapsed="0" type="model" name="A" visible="1"/>
+    <Element collapsed="0" type="model" name="M-2" visible="1"/>
+    <Element collapsed="0" type="model" name="T" visible="1"/>
+    <Element collapsed="0" type="model" name="S" visible="1"/>
+    <Element collapsed="0" type="model" name="I" visible="1"/>
+    <Element collapsed="0" type="model" name="R-3" visible="1"/>
+    <Element collapsed="0" type="model" name="H" visible="1"/>
+    <Element collapsed="0" type="model" name="C" visible="1"/>
+    <Element collapsed="0" type="model" name="Y" visible="1"/>
+    <Element collapsed="0" type="model" name="R-2" visible="1"/>
+    <Element collapsed="0" type="model" name="R-1" visible="1"/>
+    <Element collapsed="0" type="model" name="E" visible="1"/>
+    <Element collapsed="0" type="model" name="M1" visible="1"/>
+    <Element collapsed="0" type="model" name="Sphere" visible="1"/>
+    <Element collapsed="0" type="model" name="Inner Heart" visible="1"/>
+    <Element collapsed="0" type="model" name="Cable Rail" visible="1"/>
+    <Element collapsed="0" type="model" name="Cable Star 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Cable Star 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Cable Heart" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Floods" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Red Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral B" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral A" visible="1"/>
+    <Element collapsed="0" type="model" name="White Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Purple Tree" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Main Cable">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rainbow Red">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="1300" endTime="5400" palette="0"/>
+        <Effect ref="1" name="On" id="1" startTime="5400" endTime="6200" palette="0"/>
+        <Effect ref="2" name="Morph" selected="1" id="2" startTime="8150" endTime="13900" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="South Rail Strobes-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="South Rail Strobes-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="North Rail Strobes-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="North Rail Strobes-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="South Rail">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="North Rail">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Megatree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="S-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="M-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="T">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="S">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="I">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="R-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="H">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="C">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Y">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="R-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="R-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="E">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="M1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sphere">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Inner Heart">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cable Rail">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cable Star 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cable Star 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cable Heart">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Floods">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Red Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral B">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="White Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Purple Tree">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<valuecurve 
+data="Active=TRUE|Id=ID_VALUECURVE_XVC|Type=Saw Tooth|Min=0.00|Max=100.00|P1=100.00|P2=67.00|P3=2.00|RV=TRUE|" SourceVersion="2021.13"  >
+</valuecurve>

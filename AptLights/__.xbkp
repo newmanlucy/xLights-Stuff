@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.15</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Daphne Blue</song>
+    <artist>The Band CAMINO</artist>
+    <album>tryhard</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/Lucy.Newman@ibm.com/Music/Music/Media.localized/The Band CAMINO/tryhard/03 Daphne Blue.m4a</mediaFile>
+    <sequenceDuration>182.855</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=5,E_SLIDER_Snowflakes_Speed=10,E_SLIDER_Snowflakes_Type=1</Effect>
+    <Effect>E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=Start,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=20,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=100,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=100,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_Start=0,E_TEXTCTRL_On_Cycles=10</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="49842" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Strings" visible="1"/>
+    <Element collapsed="0" type="model" name="Floods" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="8400"></Effect>
+        <Effect label="" startTime="8400" endTime="16500"></Effect>
+        <Effect label="" startTime="16500" endTime="24600"></Effect>
+        <Effect label="" startTime="24600" endTime="40500"></Effect>
+        <Effect label="" startTime="40500" endTime="48900"></Effect>
+        <Effect label="" startTime="48900" endTime="56700"></Effect>
+        <Effect label="" startTime="56700" endTime="63000"></Effect>
+        <Effect label="" startTime="63000" endTime="64800"></Effect>
+        <Effect label="" startTime="64800" endTime="71700"></Effect>
+        <Effect label="" startTime="71700" endTime="73500"></Effect>
+        <Effect label="" startTime="73500" endTime="81900"></Effect>
+        <Effect label="" startTime="81900" endTime="97800"></Effect>
+        <Effect label="" startTime="97800" endTime="105600"></Effect>
+        <Effect label="" startTime="105600" endTime="114000"></Effect>
+        <Effect label="" startTime="114000" endTime="119700"></Effect>
+        <Effect label="" startTime="119700" endTime="122100"></Effect>
+        <Effect label="" startTime="122100" endTime="126900"></Effect>
+        <Effect label="" startTime="126900" endTime="130500"></Effect>
+        <Effect label="" startTime="130500" endTime="139200"></Effect>
+        <Effect label="" startTime="139200" endTime="146700"></Effect>
+        <Effect label="" startTime="146700" endTime="152400"></Effect>
+        <Effect label="" startTime="152400" endTime="154500"></Effect>
+        <Effect label="" startTime="154500" endTime="160200"></Effect>
+        <Effect label="" startTime="160200" endTime="162900"></Effect>
+        <Effect label="" startTime="162900" endTime="166200"></Effect>
+        <Effect label="" startTime="166200" endTime="171300"></Effect>
+        <Effect label="" startTime="171300" endTime="175500"></Effect>
+        <Effect label="" startTime="175500" endTime="179100"></Effect>
+        <Effect label="" startTime="179100" endTime="180300"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strings">
+      <EffectLayer>
+        <Effect ref="0" name="Snowflakes" selected="1" startTime="24600" endTime="40500" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="1" name="Morph" startTime="24600" endTime="40500" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Floods">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="0" endTime="8400" palette="1"/>
+        <Effect ref="2" name="On" id="1" startTime="8400" endTime="16500" palette="2"/>
+        <Effect ref="2" name="On" id="2" startTime="16500" endTime="24600" palette="0"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

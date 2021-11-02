@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.47.2</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Hold Each Other (feat. Futuristic)</song>
+    <artist>A Great Big World</artist>
+    <album>When the Morning Comes</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/Lucy.Newman@ibm.com/Music/A Great Big World/When the Morning Comes/04 Hold Each Other (feat_ Futuris.mp3</mediaFile>
+    <sequenceDuration>216.040</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette6=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_TEXTCTRL_Eff_On_Start=0,E_TEXTCTRL_On_Cycles=4</Effect>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=5,E_SLIDER_Snowflakes_Speed=10,E_SLIDER_Snowflakes_Type=1</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_Start=0,E_TEXTCTRL_On_Cycles=3</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Main Cable" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas" visible="1"/>
+    <Element collapsed="0" type="model" name="Rainbow" visible="1"/>
+    <Element collapsed="0" type="model" name="Circles" visible="1"/>
+    <Element collapsed="0" type="model" name="Rectangle" visible="1"/>
+    <Element collapsed="0" type="model" name="Squares" visible="1"/>
+    <Element collapsed="0" type="model" name="Older Spiral" visible="1"/>
+    <Element collapsed="0" type="model" name="Topthat Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Topthat Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Topthat" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen" visible="1"/>
+    <Element collapsed="0" type="model" name="Triangle" visible="1"/>
+    <Element collapsed="0" type="model" name="All Red" visible="1"/>
+    <Element collapsed="0" type="model" name="All Green" visible="1"/>
+    <Element collapsed="0" type="model" name="All Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="All White" visible="1"/>
+    <Element collapsed="0" type="model" name="All Mixed-Color" visible="1"/>
+    <Element collapsed="0" type="model" name="All Strobes" visible="1"/>
+    <Element collapsed="0" type="model" name="All RGBs" visible="1"/>
+    <Element collapsed="0" type="model" name="All Meteor Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Moon" visible="1"/>
+    <Element collapsed="0" type="model" name="Triangle Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Triangle Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Triangle Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen John Hat" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen John Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen John Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Dan Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Dan Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Em Bow" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Em Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Em Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Mom Bow" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Mom Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Mom Middle" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Mom Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Dad Hat" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Dad Top" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Dad Middle" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowmen Dad Bottom" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat T-3 Front Red" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat A Front Red" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat H Front Red" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat T-2 Front Red" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat P Front Red" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat O Front Red" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat T-1 Front Red" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat # Front Red" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat A Back Green" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat T-3 Back Green" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat H Back Green" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat T-2 Back Green" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat P Back Green" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat O Back Green" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat T-1 Back Green" visible="1"/>
+    <Element collapsed="0" type="model" name="#Topthat # Back Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Colored Meteor Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Dripping Icicles" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Gold" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Blue Icicles" visible="1"/>
+    <Element collapsed="0" type="model" name="Gold Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Blue Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Green Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Bright Sphere Light" visible="1"/>
+    <Element collapsed="0" type="model" name="Squares Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Squares Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Squares White" visible="1"/>
+    <Element collapsed="0" type="model" name="Squares Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Rectangle Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Rectangle Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Rectangle Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Rectangle White 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Rectangle White 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle 8-Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle 7-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle 6-Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle 5-White" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle 4-White" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle 1-Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle 3-Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle 2-Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Rainbow Purple" visible="1"/>
+    <Element collapsed="0" type="model" name="Rainbow Gold" visible="1"/>
+    <Element collapsed="0" type="model" name="Rainbow Red" visible="1"/>
+    <Element collapsed="0" type="model" name="South Rail Strobes-2" visible="1"/>
+    <Element collapsed="0" type="model" name="South Rail Strobes-1" visible="1"/>
+    <Element collapsed="0" type="model" name="North Rail Strobes-2" visible="1"/>
+    <Element collapsed="0" type="model" name="North Rail Strobes-1" visible="1"/>
+    <Element collapsed="0" type="model" name="South Rail" visible="1"/>
+    <Element collapsed="0" type="model" name="North Rail" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Megatree" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas S-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas A" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas M-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas T" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas S-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas I" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas R-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas H" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas C" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas Y" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas R-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas R-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas E" visible="1"/>
+    <Element collapsed="0" type="model" name="Merry Christmas M-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Sphere" visible="1"/>
+    <Element collapsed="0" type="model" name="Inner Heart" visible="1"/>
+    <Element collapsed="0" type="model" name="Cable Rail" visible="1"/>
+    <Element collapsed="0" type="model" name="Cable Star 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Cable Star 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Cable Heart" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Floods" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Red Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral B" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral A" visible="1"/>
+    <Element collapsed="0" type="model" name="White Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Purple Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Rainbow Green" visible="1"/>
+    <Element collapsed="0" type="model" name="Rainbow Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Circle Connectors" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="Snowflakes" startTime="700" endTime="1700"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Snowflakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Main Cable">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rainbow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circles">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rectangle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Squares">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Older Spiral">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Topthat Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Topthat Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Topthat">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Triangle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Red">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="11800" palette="0"/>
+        <Effect ref="1" name="Snowflakes" selected="1" id="1" startTime="12300" endTime="21500" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All White">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="13100" endTime="18000" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Mixed-Color">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Strobes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All RGBs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Meteor Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Moon">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Triangle Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Triangle Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Triangle Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen John Hat">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen John Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen John Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Dan Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Dan Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Em Bow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Em Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Em Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Mom Bow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Mom Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Mom Middle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Mom Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Dad Hat">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Dad Top">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Dad Middle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowmen Dad Bottom">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat T-3 Front Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat A Front Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat H Front Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat T-2 Front Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat P Front Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat O Front Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat T-1 Front Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat # Front Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat A Back Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat T-3 Back Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat H Back Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat T-2 Back Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat P Back Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat O Back Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat T-1 Back Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Topthat # Back Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Colored Meteor Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dripping Icicles">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Gold">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Blue Icicles">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Gold Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Blue Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Green Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bright Sphere Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Squares Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Squares Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Squares White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Squares Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rectangle Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rectangle Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rectangle Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rectangle White 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rectangle White 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle 8-Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle 7-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle 6-Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle 5-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle 4-White">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle 1-Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle 3-Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle 2-Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rainbow Purple">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rainbow Gold">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rainbow Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="South Rail Strobes-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="South Rail Strobes-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="North Rail Strobes-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="North Rail Strobes-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="South Rail">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="North Rail">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Megatree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas S-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas M-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas T">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas S-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas I">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas R-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas H">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas C">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas Y">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas R-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas R-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas E">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Merry Christmas M-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sphere">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Inner Heart">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cable Rail">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cable Star 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cable Star 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Cable Heart">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Floods">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Red Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral B">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="White Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Purple Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rainbow Green">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rainbow Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Circle Connectors">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
